@@ -4,10 +4,10 @@
 
 ### Notes
 
-- Try to convey a sense of moral outrage. 
+- Try to convey a sense of moral outrage.
 - This is a living document, it will be updated as new hate crimes pour in.
-- These are acts **not committed by figures of authority** directly, those should be included the [List of US atrocities](https://github.com/dessalines/essays/blob/master/us_atrocities.md). 
-- Feel free to make pull requests(changes), or fork it if you'd like to make your own versions. 
+- These are acts **not committed by figures of authority** directly, those should be included the [List of US atrocities](https://github.com/dessalines/essays/blob/master/us_atrocities.md).
+- Feel free to make pull requests(changes), or fork it if you'd like to make your own versions.
 - Name the specific source and recipient for the crime, and provide a source for the claim.
 - Try to do chronologically from recent to past; it should seem like a running log.
 
@@ -17,6 +17,8 @@
 
 - According to hate crimes researcher Brian Levin, hate crimes in nine US metropolitan areas [have risen by 20%](http://www.nbcnews.com/news/us-news/u-s-hate-crimes-20-percent-2016-fueled-election-campaign-n733306) in the year following Trump's election. <sup>[1](http://www.nbcnews.com/news/us-news/u-s-hate-crimes-20-percent-2016-fueled-election-campaign-n733306)
 - On August 14th, 2017, at the [Unite the Right rally](https://en.wikipedia.org/wiki/Unite_the_Right_rally) in Charlottesville VA, 20-year old Neo-nazi James Alex Fields Jr., [drove his car toward a crowd of antifascist counterprotestors](https://en.wikipedia.org/wiki/Unite_the_Right_rally#Vehicular_attack_and_homicide), wounding 19, and killing Heather Heyer, a paralegal from Charlottesville. Heyer's mother said she wanted Heather's name to become "a rallying cry for justice and equality and fairness and compassion." <sup>[1](https://en.wikipedia.org/wiki/Unite_the_Right_rally#Vehicular_attack_and_homicide)</sup>
+- On August 5th, 2017, [a bomb was thrown into the Dar Al Farooq mosque](https://www.nytimes.com/2017/08/05/us/minnesota-mosque-explosion.html) in Bloomington, Minn., as worshipers had just begun to gather inside for morning prayers. Luckily, there were no injuries.
+<sup>[1](https://www.nytimes.com/2017/08/05/us/minnesota-mosque-explosion.html)</sup>
 - On May 30th, 2017, [Anthony Robert Hammond attacked a black person](http://www.newsweek.com/anthony-hammond-hate-crime-us-clearlake-617485) with a machete causing serious injuries, while shouting racial slurs, in Clearlake CA. <sup>[1](http://www.newsweek.com/anthony-hammond-hate-crime-us-clearlake-617485)</sup>
 - On May 29th, 2017, Jimmy Kramer, a 20 year old Native American, [was run over during his birthday party](http://www.seattletimes.com/seattle-news/young-father-run-down-killed-in-grays-harbor-county-campground-confrontation/) in Washington state by a man and woman in a large pickup truck who first circled the party yelling racial slurs and taunts at the group from inside the truck. Kramer died and his friend was hospitalized. <sup>[1](http://www.seattletimes.com/seattle-news/young-father-run-down-killed-in-grays-harbor-county-campground-confrontation/)</sup>
 - On May 28th, 2017, White supremacist [Jeremy Joseph Christian stabbed and killed two men](http://www.cnn.com/2017/05/30/us/portland-train-teenager-stabbing-arraignment/) who defended a 16-year-old and her Muslim friend on a train in Portland OR. As he was brought into court, Christian yelled, ""Get out if you don't like free speech," and, "You call it terrorism, I call it patriotism. You hear me? Die." 16 year old Destinee Mangum told reporters, "He told us to go back to Saudi Arabia and he told us we shouldn't be here, to get out of his country," Mangum told KPTV. "He was just telling us that we basically weren't anything and that we should just kill ourselves." Taliesin Myrddin Namkai-Meche, 23, of Portland, and Ricky John Best, 53, of Happy Valley, died defending them the two high-schoolers.<sup>[1](http://www.cnn.com/2017/05/30/us/portland-train-teenager-stabbing-arraignment/)</sup>
@@ -36,4 +38,3 @@
 ## Sources / Starting points
 
 - [ ] Southern povery law center
-
